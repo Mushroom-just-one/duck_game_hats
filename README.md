@@ -1,2 +1,2 @@
 # duck_game_hats
-My Duck Game hats
+Unzip to SteamLibrary\steamapps\common\Duck Game\
